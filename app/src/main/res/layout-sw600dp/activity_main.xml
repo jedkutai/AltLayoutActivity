@@ -39,7 +39,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingTop="8dp"
-                android:text="Email"
+                android:text="@string/main_email"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <TextView
@@ -64,7 +64,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingTop="8dp"
-                android:text="Extension"
+                android:text="@string/main_extension"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <TextView
@@ -79,7 +79,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingTop="8dp"
-                android:text="Department"
+                android:text="@string/main_department"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <TextView
@@ -94,7 +94,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingTop="8dp"
-                android:text="Supervisor"
+                android:text="@string/main_supervisor"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <TextView
@@ -109,7 +109,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingTop="8dp"
-                android:text="Direct Reports"
+                android:text="@string/main_direct_reports"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <androidx.recyclerview.widget.RecyclerView
